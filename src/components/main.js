@@ -6,7 +6,6 @@ import Contact from './contact';
 import Portfolio from './portfolio';
 import Cv from './cv';
 import Map from './map';
-import Chat from './chat';
 
 const Main = () => (
     <Switch>
@@ -16,7 +15,6 @@ const Main = () => (
         <Route path="/portfolio" component={Portfolio} />
         <Route path="/cv" component={Cv} />
         <Route path="/map" component={Map} />
-        <Route path="/chat" component={Chat} />
     </Switch>
 )
 

@@ -15,7 +15,6 @@ function App() {
                 <Link to="/portfolio">Portfolio</Link>
                 <Link to="/aboutme">O mnie</Link>
                 <Link to="/map">Mapa</Link>
-                <Link to="/chat">Czat</Link>
                 <Link to="/contact">Kontakt</Link>
             </Navigation>
         </Header>
@@ -26,7 +25,6 @@ function App() {
                 <Link to="/portfolio">Portfolio</Link>
                 <Link to="/aboutme">O mnie</Link>
                 <Link to="/map">Mapa</Link>
-                <Link to="/chat">Czat</Link>
                 <Link to="/contact">Kontakt</Link>
             </Navigation>
         </Drawer>
