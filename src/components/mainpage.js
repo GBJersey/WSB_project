@@ -9,12 +9,13 @@ class Mainpage extends Component {
            <div style={{width: '100%', margin: 'auto'}}>
                <Grid className="mainpage-grid">
                    <Cell col={12}>
-                       <img 
-                            src={avatar}
-                            alt='avatar'
-                            className="avatar-img"
-                       />
+
                        <div className="banner-text">
+                            <img 
+                                    src={avatar}
+                                    alt='avatar'
+                                    className="avatar-img"
+                            />
                            <h1>Full Stack Recruiter<br />Hobbit the programer</h1>
                            <hr/>
 
