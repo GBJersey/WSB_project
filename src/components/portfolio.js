@@ -14,7 +14,7 @@ class Portfolio extends Component {
                 <div className="portfolio-grid"> 
                 
                 {/* Projekt React*/}
-                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <Card shadow={5}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                      <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
                 <CardActions border>
@@ -28,7 +28,7 @@ class Portfolio extends Component {
                 </Card>
  
                   {/* Projekt Angular*/}
-                  <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                  <Card shadow={5}>
                   <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                    <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
               <CardActions border>
@@ -41,7 +41,7 @@ class Portfolio extends Component {
               </CardMenu>
               </Card>
                 {/* Projekt VueJS*/}
-                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <Card shadow={5}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                      <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
                 <CardActions border>
@@ -61,7 +61,7 @@ class Portfolio extends Component {
             <div className="portfolio-grid"> 
                 
                 {/* Projekt React*/}
-                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <Card shadow={5}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                      <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
                 <CardActions border>
@@ -75,7 +75,7 @@ class Portfolio extends Component {
                 </Card>
  
                   {/* Projekt Angular*/}
-                  <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                  <Card shadow={5}>
                   <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                    <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
               <CardActions border>
@@ -88,7 +88,7 @@ class Portfolio extends Component {
               </CardMenu>
               </Card>
                 {/* Projekt VueJS*/}
-                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <Card shadow={5}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn.auth0.com/blog/blog/React-logo.png) center / cover'}}>Projekt React No1</CardTitle>
                      <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae neque aliquam, pulvinar lorem eu, lobortis velit. Donec luctus dignissim purus, eu blandit tellus ullamcorper non. Vivamus vestibulum dolor vel elit hendrerit finibus. Maecenas at nibh eget velit blandit scelerisque. Duis congue neque non ligula tempus lacinia sit amet at urna. Suspendisse molestie luctus turpis in dapibus. Ut varius quam sed pellentesque sodales. Fusce quis pulvinar est, non dictum risus. Etiam ultricies leo vitae laoreet vulputate. Nam vel feugiat nunc, eget sollicitudin dui. Etiam maximus sit amet enim sit amet viverra. Aliquam eget ipsum finibus, maximus leo accumsan, molestie sem. Phasellus egestas nulla ligula, id finibus diam auctor a. Nunc sit amet aliquam urna. Maecenas vitae dolor ut augue euismod placerat.</CardText>
                 <CardActions border>
