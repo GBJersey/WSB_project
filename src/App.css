@@ -29,6 +29,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
 .portfolio-grid .mdl-card {
   width: auto;
   margin: 15px;
@@ -43,7 +44,7 @@
 }
 
 .cv-right-col {
-  background: black;
+  background: #260505;
   color: white;
 }
 
@@ -58,7 +59,7 @@
 }
 
 .contact-avatar{
-  max-width: 60%;
+  max-width: 70%;
   height: auto;
 }
 
@@ -97,7 +98,15 @@
   width: auto;
   margin-top: -125px;
   border-radius: 100%;
-  border: 25px solid #260505;
+  border: 25px #260505;
+}
+
+.avatar-img2{
+  height: 250px;
+  width: auto;
+  border-radius: 100%;
+  border: 25px #260505;
+  margin-top: 1em;
 }
 
 .banner-text {

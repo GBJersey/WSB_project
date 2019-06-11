@@ -16,7 +16,7 @@ class Contact extends Component {
                             className="contact-avatar"
                        />
                     <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Do czego tego użyć?
-Ogólnie znana teza głosi, iż użytkownika może rozpraszać zrozumiała zawartość strony, kiedy ten chce zobaczyć sam jej wygląd. Jedną z mocnych stron używania Lorem Ipsum jest to, że ma wiele różnych „kombinacji” zdań, słów i akapitów, w przeciwieństwie do zwykłego: „tekst, tekst, tekst”, sprawiającego, że wygląda to „zbyt czytelnie” po polsku. Wielu webmasterów i designerów używa Lorem Ipsum jako domyślnego modelu tekstu i wpisanie w internetowej wyszukiwarce ‘lorem ipsum’ spowoduje znalezienie bardzo wielu stron, które wciąż są w budowie. Wiele wersji tekstu ewoluowało i zmieniało się przez lata, czasem przez przypadek, czasem specjalnie (humorystyczne wstawki itd).</p>
+Ogólnie znana teza głosi, iż użytkownika może rozpraszać zbyt obfita zawartość strony, szczególnie kiedy ten poszukuje konkretnych informacji. W ramach walki z rozproszeniem wszystko umieściłem klasycznie - czarno na białym po prawej stronie. Tobie drogi użytkowniku pozostaje wybrać dogodną formę kontaktu :)</p>
                 </Cell>
 
                 <Cell col={6}>
