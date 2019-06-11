@@ -11,16 +11,12 @@ class Mainpage extends Component {
                    <Cell col={12}>
 
                        <div className="banner-text">
-<<<<<<< HEAD
+                       <img 
+                            src={avatar}
+                            alt="avatar"
+                            className="avatar-img"
+                       />
                            <h1>Full Stack Recruiter</h1>
-=======
-                            <img 
-                                    src={avatar}
-                                    alt='avatar'
-                                    className="avatar-img"
-                            />
-                           <h1>Full Stack Recruiter<br />Hobbit the programer</h1>
->>>>>>> 49f8ce54f8c75178c19e8769e37032d90d62c771
                            <hr/>
 
                            <p>HTML5/CSS3 | JavaScript| React | NodeJS | MongoDB</p>
