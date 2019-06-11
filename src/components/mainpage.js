@@ -6,7 +6,7 @@ import avatar from './../avatarbw.png';
 class Mainpage extends Component {
     render() {
         return(
-           <div style={{width: '100%', margin: 'auto'}}>
+           <div style={{width: '100%', height: '100%', margin: 'auto'}}>
                <Grid className="mainpage-grid">
                    <Cell col={12}>
                        <img 
@@ -15,19 +15,19 @@ class Mainpage extends Component {
                             className="avatar-img"
                        />
                        <div className="banner-text">
-                           <h1>Full Stack Recruiter<br />Hobbit the programer</h1>
+                           <h1>Full Stack Recruiter</h1>
                            <hr/>
 
                            <p>HTML5/CSS3 | JavaScript| React | NodeJS | MongoDB</p>
                            <div className="social-links">
 
                                {/* LinkedIN */}
-                               <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                               <a href="https://www.linkedin.com/in/alekgis/" rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
                                </a>
 
                                {/* GitHub */}
-                               <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                               <a href="https://github.com/GBJersey" rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-github-square" aria-hidden="true" />
                                </a>
 
@@ -37,7 +37,7 @@ class Mainpage extends Component {
                                </a>
 
                                {/* YouTube*/}
-                               <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                               <a href="https://www.youtube.com/" rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-youtube-square" aria-hidden="true" />
                                </a>
                            </div>
